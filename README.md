@@ -3,21 +3,37 @@
 
 # Features:
 • Custom maps support 
+
 • Make Custom Map Option
+
 • Background customization 
+
 • Adaptive sync [ dont turn off it will crash ]
+
 • Adaptive Tempo for Notes
+
 • Extra Adaptive Notes [ Experimental may not always work correctly ]
+
 • Extra notes for difficulity [ Toggle Option ]
+
 • Background Dynamic Visualizer
+
 • Changeable base note speed
+
 • Changeable button sizes
+
 • Custom resolution window ( no full screen yet )
+
 • Animated music visualizer ( circle )
+
 • Literally any music support ( must be an MP3 file )
+
 • Search Function ( so u dont lose urself lmao )
+
 • Scoreboard 
+
 • Game Over Screen /+ Replay option
+
 • Best score is saved
 
 
