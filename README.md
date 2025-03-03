@@ -39,24 +39,30 @@
 
 # About Modded Maps:
 • Mods made through the ModMaker version are made is compatible so yeah they are playable to everyone
+
 • Run the "Map Maker" select the music you want and start smashing your keyboard to create a custom map
+
 • Maps are saved to "Custom Music" to play them take the file from there and drop it to "Custom Maps"
 
 
 # Customization
 • 3 Different Themes " Default, Neon, Pastel "
+
 • A, D, Left Arrow, Right Arrow is default keybind you can change that by going to customize 
 
 
 # Installation:
 Install Python from: https://www.python.org/downloads/
+
 once you see this pop-up check both boxes for future updates that might require those:
 ![395770556-7a9e7734-4096-4f1f-a6f2-06de699faf2a](https://github.com/user-attachments/assets/42e3facd-6e6a-46b7-88b6-da8f5b8c05aa)
 After that once its done, Open the ZIP file by double-clicking. Drag & Drop the folder to Desktop.
+
 Once you do open the folder & firstly run the "Installer" it will install the required libraries. it will be based on your Internet Speed so wait till its done.
 
 # How To Add The Musics?
 Basic! install any mp3 file song that you want you can use youtube mp3 downloaders, here's one i often use: https://y2mate.nu/en-rsM0/
+
 After you install put it in the "music" Folder and done!
 
 **Special Stage:** OnlyTheFallen
