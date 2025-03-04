@@ -1,4 +1,4 @@
-# Funky-Fuckin-Nights:
+# Funky-Fuckin-Nights: Discontinued due to weird issues on other PC's
 
 
 # Features:
@@ -74,4 +74,4 @@ After you install put it in the "music" Folder and done!
 
 ALL MUSICS THAT ARE SHOWN IS INCLUDED. AGAIN, ONY MP3 FILES SUPPORTED.
 
-Windows Download: [https://drive.google.com/file/d/1n79CfjNxI_Azxqc1yHGVtm6bAg9wKIHb/view?usp=sharing](https://drive.google.com/file/d/1JeT_Rh91OX7JJaGsJe3wMt3LGYRVQ3cG/view?usp=sharing)
+Windows Download: 
