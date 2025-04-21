@@ -1,4 +1,6 @@
-# Funky-Fuckin-Nights:
+# Funky-Fuckin-Nights: Outdated. visit itch.io for latest verison
+
+https://yuilix.itch.io/echora
 
 
 # Features:
