@@ -1,4 +1,4 @@
-# Funky-Fuckin-Nights: Outdated. visit itch.io for latest verison
+# Funky-Fuckin-Nights: Outdated. visit itch.io for latest verison or latest release
 
 https://yuilix.itch.io/echora
 
